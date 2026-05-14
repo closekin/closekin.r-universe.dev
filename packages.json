@@ -2,6 +2,9 @@
     {
         "package": "crossrepotest",
         "url": "https://github.com/markbravington/crossrepotest.git"
+    },
+    {
+        "package": "kinference",
+        "url": "https://github.com/closekin/kinference.git"
     }
-    
 ]
