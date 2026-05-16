@@ -1,7 +1,17 @@
 [
     {
+        "package": "crossrepotest",
+        "url": "https://github.com/closekin/crossrepotest.git"
+    }
+    ,
+    {
         "package": "kinference",
         "url": "https://github.com/closekin/kinference.git"
+    }
+    ,
+    {
+        "package": "sibgrouper",
+        "url": "https://github.com/closekin/sibgrouper.git"
     }
     
 ]
